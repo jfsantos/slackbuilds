@@ -1,0 +1,12 @@
+     |-----handy-ruler------------------------------------------------------|
+flann: flann (Fast Library for Approximate Nearest Neighbors) flann:
+flann: 
+flann: FLANN is a library for performing fast approximate
+flann: nearest neighbor searches in high dimensional spaces. It contains a
+flann: collection of algorithms we found to work best for nearest neighbor
+flann: search and a system for automatically choosing the best algorithm and
+flann: optimum parameters depending on the dataset. 
+flann:
+flann: Homepage: http://www.cs.ubc.ca/~mariusm/index.php/FLANN/FLANN
+flann:
+flann:
